@@ -1,0 +1,20 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  background-color: #264653;
+}
+
+.clr-btn {
+  background: #e76f51;
+  color: white;
+}
+.container .text {
+  color: white;
+}
+small {
+  color: #e76f51;
+}
