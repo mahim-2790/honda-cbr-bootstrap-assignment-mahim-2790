@@ -45,3 +45,10 @@ span {
 .accordion-body p {
   color: #7e848c;
 }
+.crd-height {
+  height: 70%;
+}
+footer {
+  color: white;
+  background: #0b0d17;
+}
