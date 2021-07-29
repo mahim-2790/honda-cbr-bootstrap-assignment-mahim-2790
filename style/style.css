@@ -18,3 +18,6 @@ header {
 small {
   color: #e76f51;
 }
+.gray-img {
+  filter: grayscale(100%);
+}
